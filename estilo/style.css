@@ -52,7 +52,7 @@ section#redes-sociais {
 section#redes-sociais img {
     width: 50px;
     margin: 10px;
-    border-radius: 50%;
+    border-radius: 50px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.416);
     box-sizing: border-box;
 }
